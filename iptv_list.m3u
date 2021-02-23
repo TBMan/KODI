@@ -1,82 +1,50 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1综合HD
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 ,CCTV-2财经
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 ,CCTV-4国际
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1 ,CCTV-5+体育
+#EXTINF:-1 ,CCTV-2财经HD
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 ,CCTV-3综艺HD
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV-4国际HD
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV-5+体育HD
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 ,CCTV-6
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 ,CCTV-6高清
+#EXTINF:-1 ,CCTV-6电影HD
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV-7军事农业
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 ,CCTV-9纪录
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 ,CCTV-10科教
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1 ,CCTV-11戏曲
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 ,CCTV-12社会与法
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1 ,CCTV-13新闻
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 ,CCTV-14少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 ,CCTV-15音乐
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 ,CCTV-7军事农业HD
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 ,CCTV-8电视剧HD
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV-9纪录HD
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CCTV-10科教HD
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 ,CCTV-12社会与法HD
+http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 ,CCTV-13新闻HD
+http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,上海纪实HD
+http://ivi.bupt.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 ,金鹰纪实HD
+http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 ,CGTN-国际电视台
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 #EXTINF:-1 ,CHC高清电影
-http://125.210.152.18:9090/live/CHCGQDY.m3u8
-#EXTINF:-1 ,CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 ,CHC家庭影院
 http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
-#EXTINF:-1 ,IPTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226342/1.m3u8
-#EXTINF:-1 ,IPTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8
-#EXTINF:-1 ,IPTV6+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226343/1.m3u8
-#EXTINF:-1 ,IPTV8+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
-#EXTINF:-1 ,湖南都市
-http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
-#EXTINF:-1 ,湖南经视
-http://ls.qingting.fm/live/1207.m3u8
-#EXTINF:-1 ,湖南卫视
-http://121.31.30.90:8085/ysten-business/live/hunanstv/1.m3u8
-#EXTINF:-1 ,湖南卫视
-http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
-#EXTINF:-1 ,湖南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225833/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://ivi.bupt.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1 ,湖南卫视
-http://play-dgv-xhncloud.voc.com.cn/live/5243_4TuGn2.m3u8
-#EXTINF:-1 ,湖南卫视FHD
-http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 ,湖南卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
-#EXTINF:-1 ,湖南卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8
-#EXTINF:-1 ,湖南卫视HD
-http://223.82.250.72/live/hdhunanstv/1.m3u8
-#EXTINF:-1 ,湖南卫视高清
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 ,CBN每日影院
 http://home.lpfcdn.com:4000/udp/235.254.198.192:7980
 #EXTINF:-1 ,CBN幸福剧场
@@ -129,126 +97,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 ,凤凰卫视电影台
 https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 ,广东卫视
-http://121.31.30.90:8085/ysten-business/live/guangdongstv/1.m3u8
-#EXTINF:-1 ,广东卫视
-http://125.210.152.18:9090/live/GDWSHD_H265.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.134.168.76/PLTV/1/224/3221225528/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://ivi.bupt.edu.cn/hls/gdtv.m3u8
-#EXTINF:-1 ,广东卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdguangdongstv/1.m3u8
-#EXTINF:-1 ,广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 ,广东卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
-#EXTINF:-1 ,广东卫视高清
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 ,广东新闻
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=235&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 ,广东移动
-http://szlive.grtn.cn/ydpd/sd/live.m3u8
-#EXTINF:-1 ,广东综艺 4K
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广东经济科教
-http://zzq12345.gearhostpreview.com/11/guangdong.php?id=CHTVPtvs1hd
-#EXTINF:-1 ,广东少儿
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=231&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 ,广东体育
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=20&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广东高尔夫
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=24&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 ,广州番禺HD
-http://live.pybtv.cn/channel1/sd/live.m3u8
-#EXTINF:-1 ,广州竞赛
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=52&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广州新闻
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=00&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广州影视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,珠海综合
-http://dslive.grtn.cn/zhzh/sd/live.m3u8
-#EXTINF:-1 ,珠江电影
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,珠江频道
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,上海都市
-http://39.134.168.76/PLTV/1/224/3221225610/index.m3u8
-#EXTINF:-1 ,上海都市
-http://39.134.39.38/PLTV/88888888/224/3221226168/index.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://39.134.39.38/PLTV/88888888/224/3221226174/index.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://ivi.bupt.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
-#EXTINF:-1 ,上海教育
-http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-#EXTINF:-1 ,上海教育
-http://live.setv.sh.cn/slive/shedu02_450k.m3u8
-#EXTINF:-1 ,上海教育
-http://live.setv.sh.cn/slive/shedu02_800k.m3u8
-#EXTINF:-1 ,上海金山电视台
-http://live.mudu.tv/watch/4zbn2f.m3u8
-#EXTINF:-1 ,上海外语
-http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
-#EXTINF:-1 ,上海外语
-http://39.134.39.38/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 ,上海这一刻魔都眼
-http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
-#EXTINF:-1 ,深圳东部
-http://liveplay.sznews.com/66_norecord_live/343.m3u8
-#EXTINF:-1 ,深圳卫视
-http://121.31.30.90:8085/ysten-business/live/shenzhenstv/1.m3u8
-#EXTINF:-1 ,深圳卫视
-http://121.31.30.90:8085/ysten-business/live/shenzhenstv/yst.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.168.76/PLTV/1/224/3221225532/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225828/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://ivi.bupt.edu.cn/hls/sztv.m3u8
-#EXTINF:-1 ,深圳卫视
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdshenzhenstv/1.m3u8
-#EXTINF:-1 ,深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 ,深圳卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/yst.m3u8
-#EXTINF:-1 ,深圳卫视HD
-http://223.82.250.72/live/hdshenzhenstv/1.m3u8
-#EXTINF:-1 ,深圳卫视高清
-http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
-#EXTINF:-1 ,深圳卫视高清
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 ,深圳众创TV
-http://liveplay.sznews.com/66_norecord_live/341.m3u8
-#EXTINF:-1 ,深州影视频道
-http://hbsz.chinashadt.com:2036/live/stream:szys.stream/playlist.m3u8
-#EXTINF:-1 ,深州影视频道
-http://hbsz.chinashadt.com:2036/live/stream:szys.stream_360p/playlist.m3u8
-#EXTINF:-1 ,深州综合频道
-http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/playlist.m3u8
-#EXTINF:-1 ,深州综合频道
-http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
 #EXTINF:-1 ,足球频道
 http://ivi.bupt.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 ,香港卫视
