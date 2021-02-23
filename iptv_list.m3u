@@ -663,3 +663,31 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 ,高清时装台WFC
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1,UK: Discovery Channel FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38777.m3u8 
+#EXTINF:-1,UK Discovery Channel FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38778.m3u8 
+#EXTINF:-1,UK: Discovery H&H +1 HD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38779.m3u8 
+#EXTINF:-1,UK Discovery H&H +1 HD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38780.m3u8 
+#EXTINF:-1,UK: Discovery H&H HD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38781.m3u8 
+#EXTINF:-1,UK Discovery H&H HD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38782.m3u8 
+#EXTINF:-1,UK: Discovery History FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38783.m3u8 
+#EXTINF:-1,UK Discovery History FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38784.m3u8 
+#EXTINF:-1,UK: Discovery Science FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38785.m3u8 
+#EXTINF:-1,UK Discovery Science FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38786.m3u8 
+#EXTINF:-1,UK: Discovery Shed FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38787.m3u8 
+#EXTINF:-1,UK Discovery Shed FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38788.m3u8 
+#EXTINF:-1,UK: Discovery Turbo FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38789.m3u8 
+#EXTINF:-1,UK Discovery Turbo FHD 
+http://epiciptvrestreamer.com:8000/live/tonio/tonio/38790.m3u8
